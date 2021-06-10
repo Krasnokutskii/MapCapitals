@@ -17,7 +17,7 @@ The app showing main capitals on the map
   - MKPinAnnotationView
  
  ## Project Screen Shots
-<img src="Mapcapitals/Screen1.png" width="200"> <img src="MapCapitals/Screen2.png" width="200"><img src="MapCapitals/Screen3.png" width="200">
+<img src="MapCapital/Screen1.png" width="200"> <img src="MapCapital/Screen2.png" width="200"><img src="MapCapital/Screen3.png" width="200">
 
 ## Supported devices
 iPhone 6S and 6S Plus.  
