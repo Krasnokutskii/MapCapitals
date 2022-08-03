@@ -33,11 +33,3 @@ iPhone 11, 11 Pro and 11 Pro Max.
 - more capitals
 
 - pictures to show the place 
-
-## Conclusion 
-
-It was interesting and hard project which helped me to understand how works MapKit and how implement it to IOS app.
-
-Even though it was a basic app, it was challenging for me and takes a few days to finish.
-
-I'm satisfied with work I've done and will return to make this up even more beautiful.
